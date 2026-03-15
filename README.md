@@ -1,6 +1,8 @@
 # filesplitter
 
-Split large files over 2GB.
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+filesplitter is a tool to split large files over 2GB into smaller chunks.
 
 ## Features
 - Split files larger than 2GB into smaller chunks
