@@ -33,4 +33,4 @@ deno run -A https://code4fukui.github.io/filesplitter/join.js [first split file]
 ```
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
